@@ -6,3 +6,5 @@ Launch School Course 100 exercises
 - Variables
 - Methods
 - Flow Control
+- Loops & Iterators
+- Arrays
