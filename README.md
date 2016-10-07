@@ -7,3 +7,4 @@ Launch School Course 100 exercises
 - Methods
 - Flow Control
 - Loops & Iterators
+- Arrays
