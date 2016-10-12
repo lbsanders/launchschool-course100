@@ -10,3 +10,4 @@ Launch School Course 100 exercises
 - Arrays
 - Hashes
 - More Stuff
+- Exercises
